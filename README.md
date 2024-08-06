@@ -6,7 +6,12 @@
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Thenukee/Thenukee/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+<!-- CONTRIBUTIONS -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thenukee/Thenukee/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thenukee/Thenukee/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 
