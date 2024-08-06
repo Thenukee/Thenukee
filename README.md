@@ -36,6 +36,9 @@
 </div>
 
 
+<!--- Snake Animation -->
+![Snake animation](https://github.com/Thenukee/Thenukee/blob/output/github-snake-dark.svg)
+
 
 <!--
 **Thenukee/Thenukee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,7 +56,5 @@ Here are some ideas to get you started:
 -->
 
 
-
-![snake gif](https://github.com/Thenukee/Thenukee/blob/output/github-contribution-grid-snake.gif)
 
 
