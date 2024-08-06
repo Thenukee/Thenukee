@@ -37,7 +37,7 @@
 
 
 <!--- Snake Animation -->
-![Snake animation](https://github.com/Thenukee/Thenukee/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/Thenukee/Thenukee/blob/output/github-snake.svg)
 
 
 <!--
