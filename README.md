@@ -4,12 +4,6 @@
   </h1>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Thenukee">
-    <img src="https://komarev.com/ghpvc/?username=Thenukee&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
-  </a>
-</div>
-
 ---
 
 ### 🕵️ About Me
@@ -28,8 +22,8 @@ My current research focus involves **Insider Threat Detection** and **Authentica
 | Domain | Tools & Skills |
 | :--- | :--- |
 | **Forensics** | Autopsy, Volatility (Memory), Wireshark (Network), FTK Imager |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
-| **Operating Systems** | Linux (Kali, REMnux), Windows Internals |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) |
+| **Operating Systems** | Windows Internals, Linux (Kali, REMnux) |
 | **Key Concepts** | Chain of Custody, Malware Analysis, OSINT, Log Analysis |
 
 ---
@@ -38,7 +32,6 @@ My current research focus involves **Insider Threat Detection** and **Authentica
 
 - **[Evidence-Integrity-Verifier]**: A Python tool for hashing files (MD5/SHA256) to maintain chain of custody.
 - **[Keystroke-Dynamics-Research]**: My final year research implementation for user authentication.
-*(Note: Upload your code for these soon!)*
 
 ---
 
